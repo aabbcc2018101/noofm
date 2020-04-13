@@ -1,6 +1,1 @@
-echo "# noofm" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:aabbcc2018101/noofm.git
-git push -u origin master
+http://apinew1.newbievpn.vip,http://apinew2.newbievpn.vip,http://apinew3.newbievpn.vip
